@@ -8,6 +8,6 @@ My code for the 2017 CSC411 Machine Learning project on actor face classificatio
 
 <img src="hader3.jpg" width="40">
 
-=
+Yields the following theta (weights matrix): 
 
 <img src="theta.jpg" width="40">
